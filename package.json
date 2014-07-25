@@ -72,7 +72,8 @@
     "cucumber-html": "0.2.3",
     "walkdir": "0.0.7",
     "coffee-script": "1.7.1",
-    "pogo": "0.5.1"
+    "pogo": "0.5.1",
+    "xmlbuilder":"0.4.2"
   },
   "devDependencies": {
     "connect": "2.13.0",
